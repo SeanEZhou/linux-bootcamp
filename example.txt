@@ -5,3 +5,5 @@ But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
 In the end, he died, as the good programmer did.
+
+A new programmer emerges, repeating this cycle.
